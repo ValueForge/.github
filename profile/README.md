@@ -8,7 +8,9 @@ Ethereum Classic is without question a world-class, highly secure, fully EVM com
 
 Ethereum Classic's endurance and resilience have been battle-tested and proven formidable in the face of blatant attacks on its network, social smears and media maneuverings, abandonment by its creators and attempts to hijack control of its off-chain assets. Why, then, does Ethereum Classic seem to be so undervalued and underutilized when compared to the broader cryptospace?
 
-Ethereum Classic (ETC) has two unique attributes that are found in combination in no other blockchain project. One is its well-defined, fixed, and sound monetary policy that includes a capped total token emission like that of Bitcoin. According to that policy, there will never be more than 210,000,000 ETC in existence. This ensures that Ethereum Classic is sound money suitable as a long-term store of value.
+### All the traits of a winner, but...
+
+Ethereum Classic (ETC) has two unique attributes that are found in combination in no other blockchain project. One is its well-defined, fixed, and sound monetary policy that includes a capped total token emission like that of Bitcoin. According to that policy, there will never be more than 210,700,000 ETC in existence. This ensures that Ethereum Classic is sound money suitable as a long-term store of value.
 
 The other unique property of Ethereum Classic is its Foundation. Not an organization such as the one that manages the forked-Ethereum network, Vitalik Buterin's Ethereum Foundation, but rather igt is a fundamental mindset; a required conceptualization and understanding of those core values and principles that led to Ethereum Classic's existence, that guides developers, miners, users and an ungoverned, unauthorized and, where circumstance requires, highly toxic self-appointed community of gatekeepers and defenders who zealously guard the Ethereum Classic protocol defending it from those who would attempt to attack, take over, weaken or circumvent that Foundation.
 
@@ -30,11 +32,15 @@ One financial tool currently still missing from the Ethereum Classic ecosystem i
 
 ### So what time is it?
 
-It is time; time for Ethereum Classic to make all its promise a reality, time for vindication as those who sought to harm Ethereum Classic realize that their efforts have only made it stronger and more ready for this moment, time to watch cryptospace and the entire financial world concede that the ETC Foundation is truth, as many have known all along. It is time to realize that what has been missing is not a protocol, a platform, or a tool. Its not a market condition, not a bull or a bear, and its not a technical analysis. What's missing is you. What's missing is me. The only way our decentralized ambitions will be realized is if we all stop waiting for ETC's time to come and start making now ETC's time ourselves. Right now.
+It is time; time for Ethereum Classic to make all its promise a reality, time for vindication as those who sought to harm Ethereum Classic realize that their efforts have only made it stronger and more ready for this moment, time to watch cryptospace and the entire financial world concede that the ETC Foundation is truth, as many have known all along. It's time to realize that what has been missing is not a protocol, a platform, or a tool. It's not a market condition, not a bull or a bear, and it's not a technical analysis. What's missing is you. What's missing is me. The only way our decentralized ambitions will be realized is if we all stop waiting for ETC's time to come and start making now ETC's time ourselves. Right now.
 
-It is indeed time. It's time to bring to Ethereum Classic all the tools needed to reach its full potential. The time is now.
+It is indeed time; time to bring to Ethereum Classic all the tools needed to reach its full potential.
 
-### It's time to shine. Time to forge.
+The time is now.
 
-“If Not Us, Who? If Not Now, When?”
+It's time to shine.
+
+It's time to forge.
+
+_“If Not Us, Who? If Not Now, When?”_
 -- Ronald Reagan quoting the prophet Hillel
