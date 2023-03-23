@@ -4,7 +4,7 @@
 
 ### It started with a question...
 
-Ethereum Classic is without question a world-class, highly secure, fully EVM compatible blockchain network. Since its inception as the original Ethereum, it has been recognized as having the potential to empower humankind's freedom from dependence on the conventional centralized institutions and untrustworthy “trusted” third parties who created and control what some have called the modern-day system of global enslavement: the world-wide central bank-based corporate-controlled financial system and economy.
+Without a doubt, Ethereum Classic is a world-class, highly secure, fully EVM compatible blockchain network. Since its inception as the original Ethereum, it has been recognized as having the potential to empower humankind's freedom from dependence on the conventional centralized institutions and untrustworthy “trusted” third parties who created and control what some have called the modern-day system of global enslavement: the world-wide central bank-based corporate-controlled financial system and economy.
 
 Ethereum Classic's endurance and resilience have been battle-tested and proven formidable in the face of blatant attacks on its network, social smears and media maneuverings, abandonment by its creators and attempts to hijack control of its off-chain assets. Why, then, does Ethereum Classic seem to be so undervalued and underutilized when compared to the broader cryptospace?
 
@@ -14,7 +14,7 @@ Ethereum Classic (ETC) has two unique attributes that are found in combination i
 
 The other unique property of Ethereum Classic is its Foundation. Not an organization such as the one that manages the forked-Ethereum network, Vitalik Buterin's Ethereum Foundation, but rather it is a fundamental mindset; a required conceptualization and understanding of those core values and principles that led to Ethereum Classic's existence, that guides developers, miners, users and an ungoverned, unauthorized and, where circumstance requires, highly toxic self-appointed community of gatekeepers and defenders who zealously guard the Ethereum Classic protocol defending it from those who would attempt to attack, take over, weaken or circumvent that Foundation.
 
-The Ethereum Classic Declaration of Independence and other documents written during the months following the forking of Ethereum detail the components of its Foundation. It is the only governance to which Ethereum Classic is subject thereby ensuring enduring longevity, independence, autonomy and stability for those projects built upon it.
+The Ethereum Classic Declaration of Independence and other documents written during the months following the forking of Ethereum detail the components of its Foundation. It is the only governance to which Ethereum Classic is subject thereby ensuring enduring longevity, independence, autonomy and stability for those projects built upon it. Where Bitcoin had Satoshi, Ethereum Classic has its Foundation.
 
 These two qualities combine to position Ethereum Classic as the most secure and stable EVM-compatible blockchain in existence. This fact has become more evident as, with the migration of forked-Ethereum to the proof-of-stake social consensus mechanism, ETC's miner constituent has grown exponentially further ensuring its security and stability. With ETC so well positioned, we ask once again, why is ETC not already the top cryptocurrency?
 
