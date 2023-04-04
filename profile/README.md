@@ -20,7 +20,7 @@ These two qualities combine to position Ethereum Classic as the most secure and 
 
 ### Something was missing...
 
-In order to realize its great potential and take its rightful place alongside Bitcoin at the top of the cryptocurrency landscape, Ethereum Classic requires access to thoughtfully designed and diligently administrated infrastructure tools and financial system like those developed and deployed on forked-Ethereum and other blockchains. Not having a well-developed, robust financial infrastructure at the base layer has been a major obstacle to widening acceptance and promoting the broad use of the ETC network.
+In order to realize its great potential and take its rightful place alongside Bitcoin at the top of the cryptocurrency landscape, Ethereum Classic requires access to thoughtfully designed and diligently administrated infrastructure tools and financial systems like those developed and deployed on forked-Ethereum and other blockchains. Not having a well-developed, robust financial infrastructure at the base layer has been a major obstacle to widening acceptance and promoting the broad use of the ETC network.
 
 In 2022, Ethereum Classic welcomed the introduction of several new financial platforms and services to the ETC network ecosystem. Projects such as HebeSwap, ETCSwap, and others, have begun to deploy the financial tools necessary to facilitate the ultimate success of ETC. While the development efforts of projects such as these are clearly a positive, the ETC user base has not shown the signs of expansion as was the expected response to these new projects' releases. This is most evident in the distinct lack of exponential growth in on-chain transaction volume. Where is the growth? Why is it not happening?
 
